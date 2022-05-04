@@ -1,0 +1,8 @@
+Got idea from https://google.github.io/mediapipe/solutions/face_mesh.html
+
+=== references ===
+Any use of @tensorflow-models/facemesh can be found  https://www.npmjs.com/package/@tensorflow-models/facemesh?activeTab=dependents.
+XMLHttpRequest.readyState==='4' used in index.js can be found https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/readyState.
+HTMLCanvasElement.getContext('2d') used in index.js can be found https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/getContext.
+the Path2D constructor used in utilities.js can be found https://developer.mozilla.org/en-US/docs/Web/API/Path2D#methods.
+triangulation metrics used in triangulation.js can be found https://github.com/tensorflow/tfjs-models/blob/master/face-landmarks-detection/demos/shared/triangulation.js.
